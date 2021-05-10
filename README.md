@@ -1,6 +1,9 @@
 # Trabajo Practico #3
 Plantilla base y archivos de trabajo para el TP3
 
+# Este repositorio se copia automaticamente al iniciar la clase
+# (no hagan forks o pull requests acá a no ser de que sea para mejorar la consigna)
+
 ## Script 1
 
 
